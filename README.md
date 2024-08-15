@@ -1,4 +1,4 @@
-# Hardening-a-Windows-Machine
+# Hardening-a-Windows-Machine 
 ## Objective
 In this lab, I am exploiting a Windows Machine with Metasploit by using a vulnerability found with Nmap. I will then use this knowledge to harden the system so it doesn’t happen.
 
